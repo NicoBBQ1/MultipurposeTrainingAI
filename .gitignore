@@ -1,0 +1,10 @@
+.vs/
+.vscode/
+bin/
+obj/
+*.user
+*.suo
+*.userprefs
+*.dbmdl
+*.jfm
+node_modules/
